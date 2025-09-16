@@ -1,0 +1,3 @@
+In Alien Invasion, the player has to stop the invasion of aliens on earth.
+The player will control a fighter plane using left and right arrow keys and shoot bullets using spacebar.
+As the game proceeds the level will increase.
