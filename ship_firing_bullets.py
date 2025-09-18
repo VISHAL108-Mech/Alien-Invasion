@@ -9,7 +9,7 @@ class AlienInvasion:
         pygame.init() # 1 Initializes pygame's background settings.
         print("Pygame initialized.")
 
-        self.screen = pygame.display.set_mode((1200, 800))
+        self.screen = pygame.display.set_mode((1535, 785))
         pygame.display.set_caption("Alien Invasion")
 
     @staticmethod
